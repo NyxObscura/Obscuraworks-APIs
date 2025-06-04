@@ -1,5 +1,3 @@
----
-
 # Obscuraworks API Examples
 
 This repository contains **example usage code** for the public REST API provided by [ObscuraWorks](https://docs.obscuraworks.com). The API includes a wide variety of powerful endpoints such as:
@@ -12,7 +10,7 @@ This repository contains **example usage code** for the public REST API provided
 
 > This project is intended to help developers quickly get started with integrating the ObscuraWorks API into their applications.
 
----
+
 
 ## 🔧 Getting Started
 
@@ -52,7 +50,7 @@ const headers = {
 })();
 
 ```
----
+
 
 # 📚 Documentation
 
@@ -60,21 +58,21 @@ Complete API docs with request parameters, responses, and endpoint guides:
 👉 docs.obscuraworks.com
 
 
----
+
 
 # 🤝 Contribution
 
 Feel free to fork this repo, add more usage examples, and contribute back to help others in the community!
 
 
----
+
 
 # 🔗 Official Repository
 
 GitHub: github.com/NyxObscura/Obscuraworks-APIs
 
 
----
+
 
 # 💬 Support
 
@@ -86,5 +84,3 @@ WhatsApp: [Contact Us](https://wa.me/6285183343636)
 
 Email: [support@obscuraworks.com](mailto:service@obscuraworks.com)
 
-
----
