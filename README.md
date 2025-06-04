@@ -4,11 +4,11 @@
 
 This repository contains **example usage code** for the public REST API provided by [ObscuraWorks](https://docs.obscuraworks.com). The API includes a wide variety of powerful endpoints such as:
 
-- 📥 **Downloader** (Instagram, YouTube, TikTok, etc.)
-- 🔍 **Search** (Anime, Lyrics, Movies, etc.)
-- 🧰 **Tools** (QR Generator, URL Shortener, etc.)
-- 🎮 **Fun** (Meme Generator, Text Games, etc.)
-- 🤖 **AI** (Image Enhancer, Chatbots, AI Tools, etc.)
+- 📥  **Downloader** (Instagram, YouTube, TikTok, etc.)
+- 🔍  **Search** (Anime, Lyrics, Movies, etc.)
+- 🧰  **Tools** (QR Generator, URL Shortener, etc.)
+- 🎮  **Fun** (Meme Generator, Text Games, etc.)
+- 🤖  **AI** (Image Enhancer, Chatbots, AI Tools, etc.)
 
 > This project is intended to help developers quickly get started with integrating the ObscuraWorks API into their applications.
 
