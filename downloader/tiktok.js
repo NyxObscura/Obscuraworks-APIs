@@ -24,9 +24,8 @@
 const url = `https://api.obscuraworks.com/api/downloader/tiktok?url=https://vt.tiktok.com/ZSk6WQern/`;
 
 const headers = {
-  "x-api-key": "YOUR_API_KEY" // Replace with your actual API key from docs.obscuraworks.com
+  "Authorization": "Bearer YOUR_API_KEY" // Ganti dengan API key dari docs.obscuraworks.com
 };
-
 (async function fetchTikTokVideo() {
   try {
     const response = await fetch(url, { headers });
