@@ -24,7 +24,7 @@
 const url = `https://api.obscuraworks.com/api/downloader/ytmp4?url=https://youtu.be/D-Vr8QIPffo?si=CXiFDeSxc7LY_8jY`;
 
 const headers = {
-  "x-api-key": "YOUR_API_KEY" // Replace with your actual API key
+  "Authorization": "Bearer YOUR_API_KEY" // Ganti dengan API key dari docs.obscuraworks.com
 };
 
 (async function fetchYouTubeVideo() {
