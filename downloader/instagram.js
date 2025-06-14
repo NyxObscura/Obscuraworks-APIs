@@ -22,7 +22,7 @@
 const url = `https://api.obscuraworks.com/api/downloader/instagram?url=https://www.instagram.com/reel/DKeOUllzvC1/?igsh=Y2MwOWI2NGFocXc3`;
 
 const headers = {
-  "x-api-key": "YOUR_API_KEY" // Replace with your actual API key from docs.obscuraworks.com
+  "Authorization": "Bearer YOUR_API_KEY" // Ganti dengan API key dari docs.obscuraworks.com
 };
 
 (async function fetchInstagramReel() {
