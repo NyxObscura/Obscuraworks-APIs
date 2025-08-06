@@ -1,3 +1,15 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+## [2025-08-06] - Google Sign-Up
+
+### Added
+- Pengguna kini dapat mendaftar dengan mudah menggunakan akun Google mereka melalui halaman pendaftaran.
+- Tautan pendaftaran yang diperbarui: [https://docs.obscuraworks.com/signup](https://docs.obscuraworks.com/signup)
+
+---
+
 # Obscuraworks API Examples
 
 This repository contains **example usage code** for the public REST API provided by [ObscuraWorks](https://docs.obscuraworks.com). The API includes a wide variety of powerful endpoints such as:
