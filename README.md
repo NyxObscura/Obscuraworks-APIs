@@ -15,12 +15,14 @@ This repository contains **example usage code** for the public REST API provided
 ## 🔧 Getting Started
 
 1. **Sign up** and claim your **free 100 request limit**:
+
    https://docs.obscuraworks.com/signup
 
-3. **Whitelist your IP address** via the dashboard:  
+2. **Whitelist your IP address** via the dashboard:
+
    https://docs.obscuraworks.com/dashboard/profile
 
-4. Replace `YOUR_API_KEY` in the code with your actual API key.
+3. Replace `YOUR_API_KEY` in the code with your actual API key.
 
 ---
 
@@ -69,6 +71,8 @@ GitHub: [github.com/NyxObscura/Obscuraworks-APIs](https://github.com/NyxObscura/
 For help, contact us via:
 
 Telegram: [@NyxObscura](https://t.me/@nyxobscura)
-WhatsApp: [Wa Me(https://wa.me/6285183343636)
+
+WhatsApp: [Wa Me](https://wa.me/6285183343636)
+
 Email: [support@obscuraworks.com](mailto:support@obscuraworks.com)
 
