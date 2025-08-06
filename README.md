@@ -18,7 +18,7 @@ This repository contains **example usage code** for the public REST API provided
    👉 https://docs.obscuraworks.com/signup
 
 2. **Whitelist your IP address** via the dashboard:  
-   👉 https://obscuraworks.com/dashboard/profile
+   👉 https://docs.obscuraworks.com/dashboard/profile
 
 3. Replace `YOUR_API_KEY` in the code with your actual API key.
 
@@ -53,34 +53,22 @@ const headers = {
 
 
 # 📚 Documentation
-
 Complete API docs with request parameters, responses, and endpoint guides:
 👉 docs.obscuraworks.com
 
 
-
-
 # 🤝 Contribution
-
 Feel free to fork this repo, add more usage examples, and contribute back to help others in the community!
 
 
-
-
 # 🔗 Official Repository
-
-GitHub: github.com/NyxObscura/Obscuraworks-APIs
-
-
+GitHub: [github.com/NyxObscura/Obscuraworks-APIs](https://github.com/NyxObscura/Obscuraworks-APIs) 
 
 
 # 💬 Support
-
 For help, contact us via:
 
 Telegram: [@NyxObscura](https://t.me/@nyxobscura)
-
-WhatsApp: [Contact Us](https://wa.me/6285183343636)
-
-Email: [support@obscuraworks.com](mailto:service@obscuraworks.com)
+WhatsApp: [Wa Me(https://wa.me/6285183343636)
+Email: [support@obscuraworks.com](mailto:support@obscuraworks.com)
 
