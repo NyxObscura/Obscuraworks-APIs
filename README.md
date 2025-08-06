@@ -15,10 +15,10 @@ This repository contains **example usage code** for the public REST API provided
 ## 🔧 Getting Started
 
 1. **Sign up** and claim your **free 100 request limit**:
-   👉 https://docs.obscuraworks.com/signup
+   https://docs.obscuraworks.com/signup
 
 3. **Whitelist your IP address** via the dashboard:  
-   👉 https://docs.obscuraworks.com/dashboard/profile
+   https://docs.obscuraworks.com/dashboard/profile
 
 4. Replace `YOUR_API_KEY` in the code with your actual API key.
 
