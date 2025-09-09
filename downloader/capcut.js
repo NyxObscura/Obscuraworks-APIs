@@ -33,7 +33,7 @@ const url = "https://api.obscuraworks.com/api/downloader/capcut?url=https://www.
     });
 
     const data = await res.json();
-    return data;
+    
     console.log(JSON.stringify(data, null, 2));
   } catch (err) {
     console.error("Request failed:", err.message);
