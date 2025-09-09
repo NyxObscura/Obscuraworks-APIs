@@ -19,19 +19,22 @@
  * @returns {Promise<Object|void>} The parsed JSON response from the API,
  *                                 or logs an error if the request fails.
  */
-const url = `https://api.obscuraworks.com/api/downloader/instagram?url=https://www.instagram.com/reel/DKeOUllzvC1/?igsh=Y2MwOWI2NGFocXc3`;
+const fetch = require("node-fetch");
 
-const headers = {
-  "Authorization": "Bearer YOUR_API_KEY" // Ganti dengan API key dari docs.obscuraworks.com
-};
+const url = "https://api.obscuraworks.com/api/downloader/instagram?url=https://www.instagram.com/reel/DKeOUllzvC1/?igsh=Y2MwOWI2NGFocXc3";
 
-(async function fetchInstagramReel() {
+(async () => {
   try {
-    const response = await fetch(url, { headers });
-    const result = await response.json();
-    console.log(result);
-    return result;
-  } catch (error) {
-    console.error("Request failed:", error.message || error);
+    const res = await fetch(url, {
+      headers: {
+        "Authorization": "Bearer YOUR_API_KEY",
+        "Accept": "application/json"
+      }
+    });
+
+    const data = await res.json();
+    console.log(JSON.stringify(data, null, 2));
+  } catch (err) {
+    console.error("Request failed:", err.message);
   }
 })();
