@@ -27,7 +27,7 @@ const url = "https://api.obscuraworks.com/api/downloader/soundcloud?url=https://
   try {
     const res = await fetch(url, {
       headers: {
-        "Authorization": "Bearer memek",
+        "Authorization": "Bearer YOUR_APIKEY",
         "Accept": "application/json"
       }
     });
